@@ -47,13 +47,10 @@
 </ul>
 <h2>作品連結</h2>
 <p>待新增</p>
-<div id='hid'>
+<div style='display:none;'>
     <style>
     li>ul>li{
       margin-left:20px;
-    }
-    #hid{
-      display:none;
     }
     </style>
 </div>
